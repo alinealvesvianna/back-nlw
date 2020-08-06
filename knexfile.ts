@@ -10,5 +10,3 @@ module.exports = {
     },
     useNullAsDefault: true,
 }
-
-//parei em 1h:07''
